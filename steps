@@ -1,0 +1,20 @@
+cmd script utilities:
+            1 - run at start up
+            2 - check if computer is connected to internet or not using ping command
+            3 - check if python installed or not ==> if not download the python and install it silently
+            4 - link keylogger that written in python and run !
+            5 - store the python code in D drive not windows drive
+            
+            
+            
+            
+            
+            
+    python code :
+              0 - run at start up
+              1 - get invisible !!
+              2 - change the icon in task manager 
+              3 - evade the antivirus
+              4 - start collecting whenever internet connection stablished
+              5 - store every 100 char in a text file and email to an anonymos id
+              6 - hold your breath and pray to not get caught :D
